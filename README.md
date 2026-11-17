@@ -1,11 +1,11 @@
-# Allan — sobre mim
+# Allan — modo aventura
 
-Página pessoal estática pronta para publicação no Cloudflare Pages.
+Página pessoal estática com tema neon/gamer, animações CSS e a arte do personagem integrada no hero.
 
-## Configuração
+## Cloudflare Pages
 
 - Build command: vazio
 - Output directory: `dist`
 - Framework: nenhum / site estático
 
-A foto está embutida no `dist/index.html` para facilitar o primeiro deploy.
+A imagem usada na página fica embutida no `dist/index.html` para simplificar o primeiro deploy.
